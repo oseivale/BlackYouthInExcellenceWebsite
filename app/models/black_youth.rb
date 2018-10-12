@@ -1,0 +1,2 @@
+class BlackYouth < ApplicationRecord
+end
