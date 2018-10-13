@@ -1,3 +1,36 @@
 // Place all the styles related to the black_youth controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+body {
+  background-image: url('./home/black-and-white-hand-person-7816 (1).jpg');
+
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.index-header{
+  color: white;
+  font-size: 85px;
+  transform: translate(0px, 150px);
+  font-family: 'Cabin Sketch', cursive;
+  padding-left: 175px;
+}
+
+.nav-link{
+  display: inline-block;
+  transform: translate(300px, 100px);
+  font-size: 25px;
+  background-color: #697f9f;
+  border-radius: 5px;
+  padding: 8px;
+  border: solid white 1px;
+
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  padding: 30px;
+
+}

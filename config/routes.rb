@@ -3,4 +3,6 @@ Rails.application.routes.draw do
 
   get '/index' => 'black_youth#index'
 
+  get '/show' => 'about_us#show'
+
 end
